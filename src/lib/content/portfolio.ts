@@ -27,8 +27,7 @@ export const seoData = {
   description:
     'I\'m a Senior Game Developer with over 7 years of experience, specializing in Unity, backend development, and blockchain integration.',
   author: author.name,
-  image:
-    '404',
+  image: '/portfolio/meta.png',
   url: 'https://hieuvmdev.github.io/portfolio/',
   keywords: [
     'Hieu Vu',
