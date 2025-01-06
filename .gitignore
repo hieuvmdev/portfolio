@@ -37,7 +37,5 @@ yarn-error.log*
 next-env.d.ts
 
 # ignore package-lock if generated (project uses yarn, not npm)
-package-lock.json
 .vscode/
 .github/
-yarn.lock
