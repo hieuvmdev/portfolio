@@ -29,7 +29,7 @@ export const seoData = {
   author: author.name,
   image:
     '404',
-  url: 'https://hieuvm.vercel.app/',
+  url: 'https://hieuvmdev.github.io/portfolio/',
   keywords: [
     'Hieu Vu',
     'Hieu Vu',

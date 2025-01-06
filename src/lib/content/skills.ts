@@ -9,8 +9,8 @@ export const skillsSection: SkillsSectionType = {
       title: 'Professional Skills',
       // animation lottie file: https://lottiefiles.com/
       lottie: {
-        light: '/lotties/frontend.json',
-        dark: '/lotties/frontend-dark.json',
+        light: '/portfolio/lotties/frontend.json',
+        dark: '/portfolio/lotties/frontend-dark.json',
       },
       points: [
         'Developing games with Unity and C#, Integrating blockchain, and maintaining services',
@@ -48,8 +48,8 @@ export const skillsSection: SkillsSectionType = {
       id: getId(),
       title: 'Soft Skills',
       lottie: {
-        light: '/lotties/designing.json',
-        dark: '/lotties/designing-dark.json',
+        light: '/portfolio/lotties/designing.json',
+        dark: '/portfolio/lotties/designing-dark.json',
       },
       points: [
         'Fast learning new technology and new programming language',

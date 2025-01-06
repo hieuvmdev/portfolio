@@ -10,7 +10,7 @@ export const heroSection: HeroSectionType = {
   specialText: 'Open to remote opportunities and ready to contribute!',
   cta: {
     title: 'see my resume',
-    url: `/${resumeFileName}`,
+    url: `/portfolio/${resumeFileName}`,
     hideInDesktop: true,
   },
 };

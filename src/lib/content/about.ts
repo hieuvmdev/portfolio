@@ -23,5 +23,5 @@ export const aboutSection: AboutSectionType = {
       'Blockchain',
     ],
   },
-  img: '/avatar.png',
+  img: '/portfolio/avatar.png',
 };
