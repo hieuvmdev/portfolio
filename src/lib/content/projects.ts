@@ -49,7 +49,7 @@ export const projectsSection: ProjectsSectionType = {
       ios: 'https://apps.apple.com/us/app/space-shooter-pipeflare/id1593840676',
       video: 'VkMnmuDvqPw',
       year: 2021,
-      tags: ['Unity', 'Firebase', 'Laravel', 'Photon'],
+      tags: ['Unity', 'Firebase', 'Laravel'],
     },
     {
       id: getId(),
@@ -60,7 +60,7 @@ export const projectsSection: ProjectsSectionType = {
       ios: 'https://apps.apple.com/us/app/beatbox-pipeflare/id1593620125',
       video: 'ragS6QMOpAg',
       year: 2021,
-      tags: ['Unity', 'Firebase', 'Laravel', 'Photon'],
+      tags: ['Unity', 'Firebase', 'Laravel'],
     },
     {
       id: getId(),
@@ -71,7 +71,7 @@ export const projectsSection: ProjectsSectionType = {
       ios: 'https://apps.apple.com/us/app/flare-hit/id1591596088',
       video: 'RNy0drF2MDs',
       year: 201,
-      tags: ['Unity', 'Firebase', 'Laravel', 'Photon'],
+      tags: ['Unity', 'Firebase', 'Laravel'],
     },
     {
       id: getId(),
@@ -81,7 +81,7 @@ export const projectsSection: ProjectsSectionType = {
       android: 'https://play.google.com/store/apps/details?id=com.pipeflre.flarejump',
       video: 'ILVet1bE_Wk',
       year: 2021,
-      tags: ['Unity', 'Firebase', 'Laravel', 'Photon'],
+      tags: ['Unity', 'Firebase', 'Laravel'],
     },
     // {
     //   id: getId(),
