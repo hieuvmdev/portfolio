@@ -37,11 +37,12 @@ export const skillsSection: SkillsSectionType = {
         },
         { name: 'nodejs', icon: 'logos:nodejs-icon' },
         { name: 'solidity', icon: 'skill-icons:solidity' },
+        { name: 'lua', icon: 'skill-icons:lua-dark' },
         { name: 'reactjs', icon: 'logos:react' },
         // { name: 'angularjs', icon: 'logos:angular-icon' },
         { name: 'github', icon: 'skill-icons:github-light' },
         { name: 'bitbucket', icon: 'skill-icons:bitbucket-light' },
-        { name: 'database', icon: 'vscode-icons:file-type-sql' },
+        { name: 'database', icon: 'vscode-icons:file-type-sql' }
       ],
     },
     {
