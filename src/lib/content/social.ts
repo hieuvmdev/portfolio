@@ -32,5 +32,9 @@ export const socialSection: SocialSectionType = {
       icon: 'lucide:facebook',
       url: socialLinks.facebook,
     },
+    {
+      icon: 'akar-icons:github-fill',
+      url: socialLinks.github,
+    },
   ],
 };
