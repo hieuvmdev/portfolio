@@ -25,7 +25,7 @@ export const author = {
 export const seoData = {
   title: 'Hieu Vu | Game Blockchain Developer',
   description:
-    'I\'m a Senior Game Developer with over 7 years of experience, specializing in Unity, backend development, and blockchain integration.',
+    'I\'m a Senior Game Developer specializing in Unity, VR, PC backend development, and blockchain integration.',
   author: author.name,
   image: '/meta.png',
   url: 'https://hieuvmdev.github.io/portfolio/',
