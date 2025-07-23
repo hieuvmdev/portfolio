@@ -21,6 +21,8 @@ export const aboutSection: AboutSectionType = {
       'Telegram Bot',
       'Telegram',
       'Blockchain',
+      'VR',
+      'Meta Quest'
     ],
   },
   img: '/portfolio/avatar.png',

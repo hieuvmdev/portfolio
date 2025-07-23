@@ -4,6 +4,21 @@ export const experienceSection: ExperienceSectionType = {
   title: "where i've worked",
   experiences: [
     {
+      company: 'Curly Blue',
+      companyUrl: 'https://curlyblue.com/',
+      role: 'Senior Game Developer',
+      started: 'Mar 2025',
+      upto: 'Now',
+      tasks: [
+        'Implemented responsive combat mechanics, designed horror-themed enemy AI, and handled real-time multiplayer syncing using Photon.',
+        'I optimized performance for stable high FPS in VR, ensuring comfort and responsiveness.',
+        'I also mentored junior developers, reviewed code, and helped maintain code quality. My work was key to delivering an immersive, high-quality multiplayer VR experience.',
+        'Optimize performance for Quest 2 to achieve stable frame rates and pass Meta Quest VRC.',
+        'Worked closely with artists, designers, and testers to iterate on mechanics and ensure a polished player experience.',
+        'Developed internal tools for rapid content iteration and level design.'
+      ],
+    },
+    {
       company: 'PIPEFLARE',
       companyUrl: 'https://pipeflare.io/',
       role: 'Senior Game Developer',
