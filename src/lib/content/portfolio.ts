@@ -10,7 +10,7 @@ export const socialLinks: StringKeyValueType = {
   facebook: 'https://www.facebook.com/vuminh.hieu.10/',
   // instagram: '',
   // twitter: '',
-  // github: '',
+  github: 'https://github.com/hieuvmdev',
   linkedin: 'https://www.linkedin.com/in/hieuvm/',
   skype: 'https://join.skype.com/invite/YIF9v4R82Jip',
   telegram: 'https://t.me/hieuvmdev',

@@ -6,6 +6,24 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
   projects: [
     {
       id: getId(),
+      name: 'Shmackle',
+      description: 'Shmackle is a fast-paced multiplayer VR game featuring physics-driven movement, competitive mini-games, and social play. Players control customizable robot avatars called "Proto-Bros" as they swing, climb, and explore expansive, vibrant environments.',
+      tasks:
+        "Senior developer for Shmackle VR on Meta Quest, responsible for core gameplay systems. I implemented responsive combat mechanics, designed horror-themed enemy AI, and handled real-time multiplayer syncing using Photon. I optimized performance for stable high FPS in VR, ensuring comfort and responsiveness. I also mentored junior developers, reviewed code, and helped maintain code quality. My work was key to delivering an immersive, high-quality multiplayer VR experience.",
+      url: 'https://www.meta.com/experiences/shmackle/8557045787751880/?srsltid=AfmBOopb75R9d2Uj5NCOfcP11PNfv4cb_K422oN_8UzcPXASFMOMcPHP',
+      img: '/portfolio/projects/shmackle.jpg',
+      video: 'kylDDqNCyYY',
+      tags: [
+        'Unity',
+        'Photon Fusion 2',
+        'Playfab',
+        'Mentoring',
+        'VR',
+        'Meta Quest'
+      ],
+    },
+    {
+      id: getId(),
       name: 'Pipeflare Games',
       description: 'PipeFlare Games is a platform that provides free-to-play blockchain games, leveraging cryptocurrency and NFTs for gaming rewards',
       tasks:
