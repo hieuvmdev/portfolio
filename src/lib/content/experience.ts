@@ -7,8 +7,8 @@ export const experienceSection: ExperienceSectionType = {
       company: 'Curly Blue',
       companyUrl: 'https://curlyblue.com/',
       role: 'Senior Game Developer',
-      started: 'Mar 2025',
-      upto: 'Now',
+      started: 'March 2025',
+      upto: 'Present',
       tasks: [
         'Implemented responsive combat mechanics, designed horror-themed enemy AI, and handled real-time multiplayer syncing using Photon.',
         'I optimized performance for stable high FPS in VR, ensuring comfort and responsiveness.',
@@ -23,7 +23,7 @@ export const experienceSection: ExperienceSectionType = {
       companyUrl: 'https://pipeflare.io/',
       role: 'Senior Game Developer',
       started: 'November 2020',
-      upto: 'Now',
+      upto: 'February 2025',
       tasks: [
         'Worked on both back-end (BE) and front-end (FE) development to define and implement the game architecture.',
         'Built the Pipeflare SDK to facilitate seamless communication between BE and FE components.',
